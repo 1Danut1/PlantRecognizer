@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1067754302816",
+    "project_id": "plantrecognizerapp",
+    "storage_bucket": "plantrecognizerapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067754302816:android:a3dfde3b99cc782e5e4205",
+        "android_client_info": {
+          "package_name": "com.example.plantrecognizerui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgKhXdU51syrGYAe-4ri0kp5OqaxoZRd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
